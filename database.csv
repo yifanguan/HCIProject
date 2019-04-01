@@ -1,0 +1,981 @@
+2010/10/3,Bulls,,Carlos Boozer,finger/,fracture/
+2010/10/6,Pistons,,Jonas Jerebko,Acchilles/tendon/,torn/
+2010/10/6,Pistons,,Terrico White,foot/,broken/
+2010/10/8,Blazers,,Jeff Pendergraph / Jeff Ayres,knee/,torn/
+2010/10/8,Nets,,Troy Murphy,back/,strained/
+2010/10/8,Pistons,,Jonas Jerebko,Achilles/tendon/,surgery/torn/
+2010/10/8,Pistons,,Terrico White,foot/,surgery/broken/
+2010/10/9,Nuggets,,Al Harrington,foot/,plantar fasci/torn/
+2010/10/12,Bucks,,Darington Hobson,hip/,surgery/
+2010/10/12,Kings,,Samuel Dalembert,groin/,strained/
+2010/10/17,Bobcats,,Dominic McGuire,shin/,fracture/
+2010/10/18,Warriors,,Louis Amundson / Lou Amundson,finger/,surgery/fracture/
+2010/10/19,Suns,,Josh Childress,finger/,fracture/
+2010/10/22,Heat,,Mike Miller,thumb/hand/ligament/,surgery/broken/damage/
+2010/10/25,Thunder,,Nick Collison,knee/,injury/
+2010/10/25,Timberwolves,,Martell Webster,back/,surgery/
+2010/10/26,Heat,,Mario Chalmers,ankle/,sprained/
+2010/11/4,Blazers,,Elliot Williams,knee/,surgery/dislocate/
+2010/11/11,Spurs,,James Anderson,foot/,fracture/
+2010/11/11,Warriors,,David Lee,elbow/,
+2010/11/12,Warriors,,David Lee,elbow/,surgery/
+2010/11/19,Blazers,,Greg Oden,knee/,surgery/fracture/
+2010/11/23,Heat,,Udonis Haslem,foot/ligament/,surgery/torn/
+2010/11/24,Celtics,,Delonte West,wrist/,broken/
+2010/11/26,Raptors,,Reggie Evans,foot/,broken/
+2010/11/30,Celtics,,Delonte West,wrist/,surgery/broken/
+2010/12/2,Hawks,,Joe Johnson,elbow/,surgery/
+2010/12/13,Nets,,Damion James,foot/,surgery/broken/
+2010/12/15,Bulls,,Joakim Noah,thumb/ligament/,torn/
+2010/12/15,Wizards,,Yi Jianlian / Jianlian Yi,knee/,sprained/
+2010/12/16,Bulls,,Joakim Noah,thumb/ligament/,surgery/torn/
+2010/12/16,Rockets,,Yao Ming,ankle/,fracture/
+2010/12/20,Clippers,,Craig Smith,back/,injury/
+2010/12/23,Magic,,Daniel Orton,knee/,surgery/
+2010/12/30,Rockets,,Chuck Hayes,ankle/,sprained/
+2010/12/31,Cavaliers,,Anderson Varejao,cheekbone/,fracture/
+2010/12/31,Warriors,,Brandan Wright,back/,strained/
+2011/1/3,Knicks,,Danilo Gallinari,knee/,sprained/
+2011/1/4,Mavericks,,Caron Butler,knee/tendon/,surgery/torn/
+2011/1/5,Bobcats,,DeSagana Diop,Achilles/tendon/,surgery/rupture/
+2011/1/5,Bucks,,Brandon Jennings,foot/,surgery/
+2011/1/6,Suns,,Gani Lawal,knee/,torn/
+2011/1/7,Cavaliers,,Anderson Varejao,ankle/tendon/,torn/
+2011/1/7,Rockets,,Yao Ming,ankle/,surgery/fracture/
+2011/1/8,Lakers,,Matt Barnes,knee/,torn/
+2011/1/11,Lakers,,Matt Barnes,knee/,surgery/torn/
+2011/1/17,Blazers,,Brandon Roy,knee/,surgery/
+2011/1/20,Blazers,,Marcus Camby,knee/,surgery/torn/
+2011/1/22,Magic,,Jason Williams,foot/,injury/
+2011/1/30,Suns,,Gani Lawal,knee/,surgery/torn/
+2011/2/3,Raptors,,Linas Kleiza,knee/,surgery/fracture/damage/
+2011/2/4,Kings,,Hassan Whiteside,knee/tendon/,torn/
+2011/2/6,Celtics,,Marquis Daniels,spinal/,bruise/
+2011/2/8,Mavericks,,Dominique Jones,foot/,fracture/
+2011/2/11,Mavericks,,Dominique Jones,foot/,surgery/fracture/
+2011/2/12,Cavaliers,,Anderson Varejao,ankle/tendon/,surgery/torn/
+2011/2/15,Heat,,Dexter Pittman,knee/,surgery/
+2011/2/16,Grizzlies,,Rudy Gay,shoulder/,dislocate/
+2011/2/27,Cavaliers,,Antawn Jamison,finger/,broken/
+2011/2/28,Cavaliers,,Antawn Jamison,finger/,surgery/broken/
+2011/2/28,Spurs,,(William) Tony Parker,calf/muscle/,strained/
+2011/3/3,Celtics,,Glen Davis,knee/,tendinitis/
+2011/3/3,Thunder,,Nate Robinson,knee/,surgery/
+2011/3/5,Kings,,Hassan Whiteside,knee/tendon/,surgery/torn/
+2011/3/7,Suns,,Channing Frye,shoulder/,dislocate/
+2011/3/15,Rockets,,Terrence Williams,abdomen/,surgery/
+2011/3/21,Heat,,Mario Chalmers,knee/,sprained/
+2011/3/21,Spurs,,Tim Duncan,ankle/,sprained/
+2011/3/25,Grizzlies,,Rudy Gay,shoulder/,surgery/dislocate/
+2011/3/30,Kings,,Marquis Daniels,back/,surgery/
+2011/3/31,Bobcats,,Joel Przybilla,knee/tendon/,surgery/torn/
+2011/4/7,Warriors,,Acie Law,wrist/,surgery/
+2011/4/8,Knicks,,Andy Rautins,knee/,surgery/
+2011/4/11,Nets,,Deron Williams,wrist/,surgery/scar/
+2011/4/12,Bucks,,Andrew Bogut,elbow/,surgery/scar/
+2011/4/12,Hornets,,David West,knee/,surgery/torn/
+2011/4/12,Lakers,,Andrew Bynum,knee/,hyperextended/
+2011/4/16,Cavaliers,,Ramon Sessions,hernia/,surgery/
+2011/4/16,Cavaliers,,Samardo Samuels,wrist/,surgery/
+2011/4/16,Cavaliers,,Semih Erden,shoulder/,surgery/separated/
+2011/4/18,Rockets,,Luis Scola,knee/,surgery/
+2011/5/4,Knicks,,Toney Douglas,shoulder/,surgery/torn/
+2011/5/4,Nets,,Brook Lopez,arm/,surgery/
+2011/5/10,Bobcats,,Gerald Henderson (b),hip/,surgery/torn/
+2011/5/25,Bulls,,Omer Asik,fibula/,fracture/
+2011/5/25,Warriors,,Stephen Curry,ankle/,surgery/
+2011/6/3,Raptors,,Amir Johnson,ankle/,surgery/
+2011/6/8,Hawks,,Marvin Williams,back/,surgery/
+2011/6/15,Kings,,Jason Thompson,toe/,fracture/
+2011/6/27,Mavericks,,Rodrigue Beaubois,foot/,surgery/
+2011/9/28,Timberwolves,,Martell Webster,back/,surgery/
+2011/10/7,Clippers,,Eric Bledsoe,knee/,surgery/torn/
+2011/12/1,Heat,,Mike Miller,hernia/,surgery/
+2011/12/12,Spurs,,Gary Neal,appendectomy/,
+2011/12/14,Lakers,,Derrick Caracter,knee/,surgery/torn/
+2011/12/16,Bobcats,,Eduardo Najera,knee/,surgery/torn/
+2011/12/16,Bobcats,,Reggie Williams,knee/,torn/
+2011/12/17,Celtics,,Jeff Green,heart/,surgery/
+2011/12/20,Grizzlies,,Darrell Arthur,Achilles/tendon/,rupture/
+2011/12/22,Nets,,Brook Lopez,foot/,surgery/fracture/
+2011/12/25,Blazers,,Greg Oden,knee/,surgery/
+2011/12/25,Bobcats,,Reggie Williams,knee/,torn/
+2011/12/25,Cavaliers,,Semih Erden,thumb/,injury/
+2011/12/25,Grizzlies,,Xavier Henry,ankle/,injury/
+2011/12/25,Hawks,,Kirk Hinrich,shoulder/,surgery/
+2011/12/25,Hornets,,DaJuan Summers,knee/,hyperextended/
+2011/12/25,Knicks,,Iman Shumpert,knee/,sprained/
+2011/12/25,Raptors,,Linas Kleiza,knee/,surgery/fracture/damage/
+2011/12/25,Timberwolves,,Brad Miller,knee/,surgery/
+2011/12/25,Clippers,,Eric Bledsoe,knee/,surgery/torn/
+2012/1/2,Spurs,,Emanuel Ginobili / Manu Ginobili,hand/,broken/
+2012/1/4,Thunder,,Ryan Reid,nose/,surgery/broken/
+2012/1/6,Kings,,Chuck Hayes,shoulder/,dislocate/
+2012/1/7,Timberwolves,,Michael Beasley,foot/,sprained/
+2012/1/17,Hawks,,Al Horford,muscle/,surgery/torn/
+2012/1/18,Thunder,,Eric Maynor,knee/,surgery/torn/
+2012/1/19,Warriors,,Kwame Brown,muscle/chest/,surgery/torn/
+2012/1/24,Nets,,Damion James,foot/,surgery/
+2012/1/26,Bucks,,Andrew Bogut,ankle/,fracture/
+2012/1/30,Nets,,MarShon Brooks,toe/,fracture/
+2012/2/2,Bobcats,,Gerald Henderson (b),hamstring/,strained/
+2012/2/3,Blazers,,Greg Oden,knee/,surgery/
+2012/2/7,Clippers,,Chauncey Billups,Achilles/tendon/,torn/
+2012/2/7,Knicks,,Carmelo Anthony,groin/,strained/
+2012/2/7,Nuggets,,Danilo Gallinari,hip/ankle/,fracture/
+2012/2/9,Nets,,Keith Bogans,ankle/ligament/,fracture/torn/
+2012/2/14,Clippers,,Chauncey Billups,Achilles/tendon/,surgery/torn/
+2012/2/17,Mavericks,,Delonte West,finger/,surgery/broken/
+2012/2/20,Blazers,,Greg Oden,knee/,surgery/fracture/
+2012/2/22,Nets,,Shawne Williams,foot/,surgery/
+2012/3/9,Timberwolves,,Ricky Rubio,knee/,torn/
+2012/3/19,Hawks,,Jannero Pargo,appendectomy/,
+2012/3/21,Blazers,,Elliot Williams,shoulder/,surgery/
+2012/3/21,Timberwolves,,Ricky Rubio,knee/,surgery/torn/
+2012/3/27,Raptors,,Jerryd Bayless,muscle/,torn/
+2012/3/29,Nuggets,,Rudy Fernandez,back/,surgery/
+2012/3/30,Celtics,,Jermaine O'Neal,wrist/,surgery/
+2012/3/30,Suns,,Grant Hill,knee/,surgery/torn/
+2012/4/2,Cavaliers,,Daniel Gibson,foot/ankle/tendon/,surgery/torn/
+2012/4/2,Knicks,,Jeremy Lin,knee/,surgery/torn/
+2012/4/6,Magic,,Hidayet Turkoglu / Hedo Turkoglu,facial/,surgery/fracture/
+2012/4/12,Blazers,,LaMarcus Aldridge,hip/,surgery/torn/
+2012/4/16,Wizards,,Roger Mason Jr.,finger/,surgery/broken/
+2012/4/18,Warriors,,Nate Robinson,hamstring/,injury/
+2012/4/20,Magic,,Dwight Howard,back/hernia/,surgery/herniated disc/
+2012/4/21,Warriors,,Andrew Bogut,ankle/,surgery/scar/
+2012/4/22,Rockets,,Kyle Lowry,hernia/,
+2012/4/25,Warriors,,Stephen Curry,ankle/,surgery/
+2012/4/26,Heat,,Chris Bosh,muscle/leg/,
+2012/4/26,Warriors,,David Lee,muscle/,surgery/torn/
+2012/4/28,Bulls,,Derrick Rose,knee/,torn/
+2012/4/28,Heat,Chris Bosh,,,
+2012/4/28,Knicks,,Iman Shumpert,knee/,torn/
+2012/4/29,Clippers,,Caron Butler,hand/,fracture/
+2012/4/30,Nuggets,,Wilson Chandler,hip/,surgery/torn/
+2012/5/1,Rockets,,Kyle Lowry,hernia/,surgery/
+2012/5/2,Suns,,Channing Frye,shoulder/,surgery/
+2012/5/3,Bucks,,Carlos Delfino,hernia/,surgery/
+2012/5/6,Knicks,,Baron Davis,knee/tendon/,torn/
+2012/5/7,Bucks,,Luc Richard Mbah a Moute / Luc Mbah a Moute,knee/,surgery/tendinitis/
+2012/5/10,Blazers,,LaMarcus Aldridge,hip/,surgery/torn/
+2012/5/12,Bulls,,Derrick Rose,knee/,surgery/torn/
+2012/5/15,Timberwolves,,Nikola Pekovic,ankle/,surgery/
+2012/5/16,Nuggets,,Al Harrington,knee/,surgery/torn/
+2012/5/25,Celtics,,Avery Bradley,shoulder/,surgery/
+2012/6/14,Celtics,,Mickael Pietrus,knee/,surgery/
+2012/6/14,Celtics,,Ray Allen,ankle/,surgery/
+2012/7/10,Heat,,Dwyane Wade,knee/,surgery/
+2012/7/11,Thunder,,Hollis Thompson,groin/,surgery/
+2012/7/12,Clippers,,Blake Griffin,knee/,torn/
+2012/7/12,Thunder,,Kendrick Perkins,groin/,surgery/
+2012/7/14,Cavaliers,,Kyrie Irving,hand/,broken/
+2012/7/16,Clippers,,Blake Griffin,knee/,surgery/torn/
+2012/7/18,Cavaliers,,Kyrie Irving,hand/,surgery/broken/
+2012/7/19,Thunder,,Kendrick Perkins,wrist/ligament/,surgery/torn/
+2012/7/27,Hornets,,Austin Rivers,ankle/,surgery/
+2012/8/5,Hornets,,Robin Lopez,knee/,surgery/
+2012/8/21,Clippers,,Chris Paul,thumb/ligament/,surgery/torn/
+2012/9/7,Knicks,,Ronnie Brewer,knee/,surgery/torn/
+2012/9/11,Blazers,,Elliot Williams,Achilles/tendon/,torn/
+2012/9/14,Blazers,,Elliot Williams,Achilles/tendon/,surgery/torn/
+2012/9/20,Suns,,Channing Frye,heart/,enlarged/
+2012/9/24,Lakers,,Steve Blake,foot/,injury/
+2012/9/26,Grizzlies,,Darrell Arthur,fibula/leg/,fracture/
+2012/9/28,Wizards,,John Wall (a),kneecap/knee/,fracture/
+2012/10/1,76ers,,Andrew Bynum,knee/,
+2012/10/10,Knicks,,Chris Smith (c),knee/,surgery/
+2012/10/17,Timberwolves,,Kevin Love,hand/,fracture/
+2012/10/19,Mavericks,,Dirk Nowitzki,knee/,surgery/
+2012/10/21,Knicks,,Amare Stoudemire / Amar'e Stoudemire,knee/,rupture/
+2012/10/30,Bulls,,Derrick Rose,knee/,surgery/torn/
+2012/10/30,Knicks,,Amare Stoudemire / Amar'e Stoudemire,knee/,surgery/
+2012/10/30,Knicks,,Iman Shumpert,knee/,surgery/torn/
+2012/10/30,Nuggets,,Julyan Stone,hip/,surgery/
+2012/10/30,Pacers,,Danny Granger,knee/,sore/
+2012/10/30,Celtics,,Avery Bradley,shoulder/,surgery/
+2012/11/3,Nuggets,,Wilson Chandler,hip/,surgery/torn/
+2012/11/3,Warriors,,Brandon Rush,knee/,torn/
+2012/11/6,Bobcats,,Gerald Henderson (b),foot/,sprained/
+2012/11/7,Lakers,,Earl Clark,groin/,strained/
+2012/11/11,Timberwolves,,Chase Budinger,knee/,torn/
+2012/11/13,Timberwolves,,Chase Budinger,knee/,surgery/torn/
+2012/11/15,Raptors,,Landry Fields,elbow/,surgery/nerve/
+2012/11/16,Cavaliers,,Luke Harangody,knee/,
+2012/11/16,Spurs,,Kawhi Leonard,knee/quadricep/,tendinitis/
+2012/11/19,Cavaliers,,Kyrie Irving,finger/,fracture/
+2012/11/19,Spurs,,Stephen Jackson,finger/,fracture/
+2012/11/19,Timberwolves,,Brandon Roy,knee/,surgery/
+2012/12/2,Bulls,,Richard Hamilton,foot/,plantar fasci/torn/
+2012/12/3,Lakers,,Steve Blake,muscle/,surgery/torn/
+2012/12/19,Celtics,,Chris Wilcox,thumb/,sprained/
+2012/12/20,Magic,,Glen Davis,shoulder/,strained/
+2012/12/20,Timberwolves,,Josh Howard,knee/,torn/
+2012/12/21,Raptors,,Jonas Valanciunas,finger/,fracture/
+2012/12/23,Bobcats,,Byron Mullens / B.J. Mullens,ankle/,sprained/
+2012/12/23,Jazz,,Maurice Williams / Mo Williams,thumb/,sprained/
+2013/1/2,Jazz,,Maurice Williams / Mo Williams,thumb/,surgery/
+2013/1/10,Cavaliers,,Anderson Varejao,muscle/knee/,surgery/torn/
+2013/1/12,Timberwolves,,Malcolm Lee / Malcom Lee,hip/knee/,surgery/
+2013/1/14,Spurs,,Emanuel Ginobili / Manu Ginobili,hamstring/,strained/
+2013/1/15,Timberwolves,,Kevin Love,hand/finger/,surgery/fracture/
+2013/1/17,Timberwolves,,Malcolm Lee / Malcom Lee,hip/knee/,surgery/
+2013/1/21,Cavaliers,,Anderson Varejao,lung/,blood clot/
+2013/1/23,Lakers,,Jordan Hill,hip/,surgery/fracture/damage/torn/
+2013/1/28,Nets,,Tornike Shengelia,concussion/,
+2013/1/30,Magic,,Glen Davis,foot/,fracture/
+2013/2/5,76ers,,Thaddeus Young,hamstring/,strained/
+2013/2/6,Lakers,,Pau Gasol,foot/,plantar fasci/torn/
+2013/2/7,Hawks,,Louis Williams / Lou Williams,knee/,surgery/torn/
+2013/2/8,76ers,,Jason Richardson,knee/,surgery/
+2013/2/12,Celtics,,Leandro Barbosa,knee/,torn/
+2013/2/13,Celtics,,Rajon Rondo,knee/,surgery/torn/
+2013/2/24,Cavaliers,,Omri Casspi,appendectomy/,
+2013/3/2,Spurs,,(William) Tony Parker,ankle/,sprained/
+2013/3/7,Bobcats,,Ramon Sessions,knee/,sprained/
+2013/3/7,Hornets,,Austin Rivers,hand/,fracture/
+2013/3/7,Suns,,Marcin Gortat,foot/,sprained/
+2013/3/11,Cavaliers,,Kyrie Irving,shoulder/,sprained/
+2013/3/14,Lakers,,Kobe Bryant,ankle/,sprained/
+2013/3/17,Mavericks,,Rodrigue Beaubois,hand/,fracture/
+2013/3/18,76ers,,Andrew Bynum,knee/,surgery/
+2013/3/21,Bobcats,,Brendan Haywood,foot/,fracture/
+2013/3/23,Magic,,Arron Afflalo,hamstring/,strained/
+2013/3/27,Jazz,,Enes Kanter,shoulder/,dislocate/
+2013/3/27,Lakers,,Metta World Peace / Ron Artest,knee/,torn/
+2013/3/28,Lakers,,Metta World Peace / Ron Artest,knee/,surgery/torn/
+2013/4/3,Hawks,,Zaur Pachulia / Zaza Pachulia,Achilles/tendon/,surgery/
+2013/4/4,Pacers,,Danny Granger,knee/,surgery/
+2013/4/5,Nuggets,,Danilo Gallinari,knee/,torn/
+2013/4/10,Jazz,,Enes Kanter,shoulder/,surgery/dislocate/
+2013/4/10,Timberwolves,,Kevin Love,knee/,surgery/scar/
+2013/4/11,Hornets,,Anthony Davis,knee/,sprained/bruise/
+2013/4/12,Lakers,,Kobe Bryant,Achilles/tendon/,torn/
+2013/4/13,Lakers,,Kobe Bryant,Achilles/tendon/,surgery/torn/
+2013/4/21,Warriors,,David Lee,hip/,torn/
+2013/4/26,Thunder,,Russell Westbrook,knee/,torn/
+2013/4/27,Thunder,Russell Westbrook,,knee/,surgery/torn/
+2013/4/30,Nuggets,,Danilo Gallinari,knee/,surgery/damage/
+2013/5/6,Celtics,,Jason Terry,knee/,surgery/
+2013/5/10,Lakers,,Pau Gasol,knee/,scar/
+2013/5/10,Pelicans,,Eric Gordon,ankle/,surgery/scar/
+2013/5/29,Heat,,LeBron James,,
+2013/5/30,Blazers,,Wesley Matthews / Wes Matthews Jr.,elbow/,surgery/
+2013/5/30,Rockets,,Carlos Delfino,foot/,surgery/fracture/
+2013/5/30,Warriors,,David Lee,hip/,surgery/torn/
+2013/5/31,Jazz,,Marvin Williams,Achilles/heel/tendon/,surgery/
+2013/6/3,Nuggets,,Danilo Gallinari,knee/,surgery/torn/
+2013/6/13,Warriors,,Festus Ezeli,knee/,surgery/sprained/
+2013/6/25,Nets,,Brook Lopez,foot/,surgery/
+2013/7/12,Mavericks,,Shane Larkin,ankle/,fracture/
+2013/7/12,Suns,,Alex Len,ankle/,surgery/fracture/
+2013/7/15,Knicks,,J.R. Smith,knee/,surgery/
+2013/7/16,Mavericks,,Shane Larkin,ankle/,surgery/fracture/
+2013/8/1,Pacers,,Chris Copeland,knee/,surgery/
+2013/9/9,Pelicans,,Darius Miller,foot/,surgery/fracture/
+2013/9/18,Wizards,,Chris Singleton,foot/,surgery/
+2013/9/18,Wizards,,Emeka Okafor,hernia/neck/,herniated disc/
+2013/9/19,Wizards,,Chris Singleton,foot/,surgery/fracture/
+2013/9/27,76ers,,Arnett Moultrie,ankle/,surgery/
+2013/9/27,Timberwolves,,Chase Budinger,knee/,damage/
+2013/10/1,Thunder,,Russell Westbrook,knee/,surgery/
+2013/10/5,Blazers,,C.J. McCollum,foot/,fracture/
+2013/10/8,Hawks,,Gustavo Ayon,rotator/,strained/
+2013/10/10,Bobcats,,Brendan Haywood,foot/,fracture/
+2013/10/10,Mavericks,,Brandan Wright,shoulder/,surgery/fracture/
+2013/10/10,Pistons,,Rodney Stuckey,thumb/,fracture/
+2013/10/11,Bucks,,Ekpe Udoh,knee/,surgery/
+2013/10/11,Pistons,,Rodney Stuckey,thumb/,surgery/fracture/
+2013/10/12,Bobcats,,Cody Zeller,appendectomy/,
+2013/10/12,Jazz,,Trey Burke,finger/,fracture/
+2013/10/15,Jazz,,Trey Burke,finger/,surgery/fracture/
+2013/10/15,Kings,,Carl Landry,muscle/hip/,surgery/torn/
+2013/10/15,Pistons,,Brandon Jennings,tooth/,
+2013/10/16,Clippers,,Maalik Wayns,knee/,surgery/torn/
+2013/10/17,Bobcats,,Brendan Haywood,foot/,surgery/fracture/
+2013/10/28,Pacers,,Danny Granger,calf/,strained/
+2013/10/29,Bucks,,Carlos Delfino,foot/,surgery/
+2013/10/29,Cavaliers,,Carrick Felix,hernia/,
+2013/10/29,Celtics,,Rajon Rondo,knee/,surgery/torn/
+2013/10/29,Hawks,,Louis Williams / Lou Williams,knee/,surgery/
+2013/10/29,Nuggets,,Danilo Gallinari,knee/,surgery/torn/
+2013/10/29,Timberwolves,,Chase Budinger,knee/,surgery/
+2013/10/29,Warriors,,Festus Ezeli,knee/,surgery/
+2013/11/1,Timberwolves,,Ronny Turiaf,elbow/,fracture/
+2013/11/6,Knicks,,Tyson Chandler,fibula/,fracture/
+2013/11/8,Bobcats,,Steve Clifford,head/heart/,
+2013/11/10,Nuggets,,JaVale McGee,tibia/,fracture/
+2013/11/11,Bobcats,Steve Clifford,,head/,
+2013/11/11,Bucks,,Larry Sanders,thumb/ligament/,surgery/torn/
+2013/11/11,Lakers,,Steve Nash,back/,nerve/
+2013/11/21,Clippers,,Matt Barnes,eye/,surgery/torn/
+2013/11/23,Bulls,,Derrick Rose,knee/,torn/
+2013/11/23,Grizzlies,,Marc Gasol,knee/,sprained/
+2013/11/25,Bulls,,Derrick Rose,knee/,surgery/torn/
+2013/11/30,Jazz,,Andris Biedrins,ankle/,sprained/
+2013/12/1,Pelicans,,Anthony Davis,hand/,fracture/
+2013/12/2,Lakers,,Jordan Farmar,hamstring/,torn/
+2013/12/4,Bobcats,,Michael Kidd-Gilchrist,hand/,fracture/
+2013/12/9,Bucks,,Zaur Pachulia / Zaza Pachulia,foot/,fracture/
+2013/12/9,Pelicans,,Tyreke Evans,ankle/,sprained/
+2013/12/12,Lakers,,Steve Blake,ligament/elbow/,torn/
+2013/12/13,Warriors,,Jermaine O'Neal,wrist/ligament/,surgery/torn/
+2013/12/14,Bucks,,Carlos Delfino,foot/,surgery/
+2013/12/16,Knicks,,Pablo Prigioni,toe/,fracture/
+2013/12/18,Wizards,,Glen Rice Jr.,wrist/,surgery/fracture/
+2013/12/19,Lakers,,Kobe Bryant,tibia/,fracture/
+2013/12/21,Nets,,Brook Lopez,foot/,fracture/
+2013/12/21,Rockets,,Patrick Beverley,hand/,fracture/
+2013/12/27,Hawks,,Al Horford,muscle/,torn/
+2013/12/27,Thunder,,Russell Westbrook,knee/,surgery/
+2013/12/30,Lakers,,Xavier Henry,knee/,injury/
+2013/12/31,Hawks,,Al Horford,muscle/,surgery/torn/
+2014/1/3,Clippers,,Chris Paul,shoulder/,separated/
+2014/1/4,Nets,,Brook Lopez,foot/,surgery/fracture/
+2014/1/10,Suns,,Eric Bledsoe,knee/,surgery/
+2014/1/17,Mavericks,,Gal Mekel,knee/,surgery/torn/
+2014/1/21,Nuggets,,Danilo Gallinari,knee/,surgery/
+2014/1/22,Celtics,,Avery Bradley,ankle/,sprained/
+2014/1/22,Raptors,,Landry Fields,wrist/,surgery/
+2014/1/22,Spurs,,Kawhi Leonard,hand/,fracture/
+2014/1/23,Hawks,,Pero Antic,ankle/,fracture/
+2014/1/23,Knicks,,Andrea Bargnani,ligament/elbow/,torn/
+2014/1/26,Bucks,,Carlos Delfino,foot/,surgery/
+2014/1/28,Timberwolves,,Nikola Pekovic,ankle/,bursitis/
+2014/1/31,Nuggets,,Nate Robinson,knee/,torn/
+2014/1/31,Nuggets,,Nate Robinson,knee/,surgery/torn/
+2014/2/3,Hawks,,John Jenkins,back/,injury/
+2014/2/3,Hawks,,John Jenkins,back/,surgery/
+2014/2/6,Lakers,,Nick Young,knee/,fracture/
+2014/2/9,Nuggets,,Ty Lawson,rib/,fracture/
+2014/2/15,Bucks,,Larry Sanders,orbital/,surgery/fracture/
+2014/2/19,Pistons,,Chauncey Billups,knee/,surgery/
+2014/2/20,Nuggets,,JaVale McGee,tibia/,surgery/fracture/
+2014/2/20,Timberwolves,,Ronny Turiaf,knee/,bruise/
+2014/2/24,Wizards,,Nene / Nene Hilario / Maybyner Hilario,knee/,injury/sprained/
+2014/2/28,Cavaliers,,Anthony Bennett,ankle/knee/,injury/sprained/
+2014/2/28,Celtics,,Gerald Wallace,knee/,torn/
+2014/2/28,Hawks,,Gustavo Ayon,shoulder/,surgery/
+2014/2/28,Pelicans,,Jrue Holiday,tibia/,surgery/fracture/
+2014/2/28,Rockets,,Greg Smith (a),knee/,surgery/
+2014/3/4,Celtics,,Gerald Wallace,ankle/knee/,surgery/torn/
+2014/3/5,Suns,,Leandro Barbosa,hand/,fracture/
+2014/3/10,Cavaliers,,Anthony Bennett,knee/,strained/
+2014/3/17,Cavaliers,,Kyrie Irving,bicep/,strained/
+2014/3/20,Kings,,Carl Landry,knee/,surgery/torn/
+2014/3/22,Bucks,,Nate Wolters,hand/,fracture/
+2014/3/22,Lakers,,Xavier Henry,wrist/ligament/,torn/
+2014/3/22,Nuggets,,J.J. Hickson,knee/,torn/
+2014/3/25,Nuggets,,J.J. Hickson,knee/,surgery/torn/
+2014/4/7,Lakers,,Kent Bazemore,foot/,injury/
+2014/4/8,Pelicans,,Ryan Anderson,hernia/neck/,surgery/herniated disc/
+2014/4/11,Lakers,,Xavier Henry,wrist/knee/,surgery/
+2014/4/15,Nuggets,,Danilo Gallinari,knee/,torn/
+2014/4/16,Lakers,,Kent Bazemore,foot/tendon/,surgery/torn/
+2014/4/30,Bobcats,,Josh McRoberts,toe/,surgery/
+2014/5/2,Bulls,,Joakim Noah,knee/,surgery/
+2014/5/6,76ers,,Michael Carter-Williams,shoulder/,surgery/torn/
+2014/5/13,Cavaliers,,Anthony Bennett,tonsils/,surgery/
+2014/5/15,Pelicans,,Tyreke Evans,knee/,surgery/scar/
+2014/5/16,Thunder,,Serge Ibaka,calf/,injury/
+2014/5/24,Bobcats,,Gerald Henderson (b),wrist/,surgery/scar/
+2014/5/27,Nets,,Deron Williams,ankle/,surgery/
+2014/6/28,Wizards,,Martell Webster,back/hernia/,surgery/herniated disc/
+2014/7/1,Spurs,,Patrick Mills / Patty Mills,shoulder/,surgery/injury/
+2014/7/2,Spurs,,Emanuel Ginobili / Manu Ginobili,leg/,fracture/
+2014/7/5,76ers,,Pierre Jackson,Achilles/tendon/,injury/
+2014/7/14,Thunder,,Perry Jones III,knee/,surgery/
+2014/7/22,Blazers,,Thomas Robinson,thumb/ligament/,surgery/torn/
+2014/8/1,Pacers,,Paul George,tibia/fibula/leg/,surgery/fracture/
+2014/8/11,Nets,,Markel Brown,hand/,fracture/
+2014/8/15,Suns,,Isaiah Thomas,wrist/,surgery/
+2014/8/15,Warriors,,Shaun Livingston,toe/,surgery/
+2014/9/2,Hornets,,Noah Vonleh,hernia/,surgery/
+2014/9/26,Celtics,,Rajon Rondo,finger/,surgery/fracture/
+2014/9/27,Pelicans,,Tyreke Evans,hamstring/,strained/
+2014/9/29,Heat,,Justin Hamilton (b),atrial/,surgery/
+2014/10/6,Lakers,,Nick Young,thumb/ligament/,surgery/torn/
+2014/10/7,Suns,,Alex Len,finger/,fracture/
+2014/10/9,Thunder,,Mitch McGary,foot/,fracture/
+2014/10/11,Wizards,,Bradley Beal,wrist/,surgery/fracture/
+2014/10/13,Bucks,,Johnny O'Bryant III,knee/,sprained/
+2014/10/13,Thunder,,Kevin Durant,toe/,fracture/
+2014/10/14,Pistons,,Jodie Meeks,back/,fracture/
+2014/10/16,Thunder,,Kevin Durant,toe/,surgery/fracture/
+2014/10/17,Bucks,,Larry Sanders,,surgery/
+2014/10/23,Lakers,,Steve Nash,back/,injury/
+2014/10/23,Suns,,T.J. Warren,thumb/,fracture/
+2014/10/25,Magic,,Victor Oladipo,facial/,surgery/fracture/
+2014/10/28,Lakers,,Julius Randle,tibia/leg/,fracture/
+2014/10/29,Lakers,,Julius Randle,tibia/leg/,surgery/fracture/
+2014/11/1,Thunder,,Russell Westbrook,hand/,surgery/fracture/
+2014/11/8,Celtics,,Rajon Rondo,hand/,surgery/
+2014/11/17,Lakers,,Ryan Kelly,hamstring/,torn/
+2014/11/18,Knicks,,Cleanthony Early,knee/,injury/
+2014/11/19,Timberwolves,,Ronny Turiaf,hip/,injury/
+2014/11/25,Timberwolves,,Kevin Martin,wrist/,surgery/fracture/
+2014/11/28,Pistons,,Brandon Jennings,,
+2014/11/29,Raptors,,DeMar DeRozan,groin/tendon/,torn/
+2014/12/7,Pacers,,Ian Mahinmi,foot/,plantar fasci/torn/
+2014/12/10,Heat,,Josh McRoberts,knee/,torn/
+2014/12/13,Bulls,,Doug McDermott,knee/,surgery/torn/
+2014/12/13,Bucks,,Damien Inglis,ankle/,injury/
+2014/12/14,Heat,,Chris Bosh,calf/,strained/
+2014/12/16,Bucks,,Jabari Parker,knee/,torn/
+2014/12/16,Timberwolves,,Ronny Turiaf,hip/,surgery/
+2014/12/18,Bucks,,Larry Sanders,,
+2014/12/21,Nuggets,,Danilo Gallinari,knee/,torn/
+2014/12/22,Nuggets,,Danilo Gallinari,knee/,surgery/torn/
+2014/12/23,Heat,,Josh McRoberts,knee/,surgery/torn/
+2014/12/26,Cavaliers,,Anderson Varejao,Achilles/tendon/,surgery/torn/
+2014/12/29,Kings,,Eric Moreland,shoulder/,injury/
+2014/12/31,Hornets,,Al Jefferson,muscle/groin/,strained/
+2014/12/31,Jazz,,Alec Burks,shoulder/,surgery/
+2015/1/2,Jazz,,Rodney Hood,heel/,injury/
+2015/1/3,Jazz,,Enes Kanter,ankle/,sprained/
+2015/1/5,Bucks,,Jabari Parker,knee/,surgery/torn/
+2015/1/6,Lakers,,Julius Randle,foot/leg/,surgery/
+2015/1/8,Nets,,Deron Williams,rib/,fracture/
+2015/1/17,Bucks,,Kendall Marshall,knee/,torn/
+2015/1/17,Bucks,,Kendall Marshall,knee/,surgery/torn/
+2015/1/22,Lakers,,Kobe Bryant,shoulder/rotator/,torn/
+2015/1/23,Nets,,Mirza Teletovic,lung/,blood clot/
+2015/1/24,Pistons,,Brandon Jennings,Achilles/,torn/
+2015/1/25,Timberwolves,,Robbie Hummel,hand/,fracture/
+2015/1/28,Hornets,,Kemba Walker,knee/,surgery/torn/
+2015/1/28,Lakers,,Kobe Bryant,shoulder/rotator/,surgery/torn/
+2015/2/6,Suns,,Alex Len,ankle/,sprained/
+2015/2/8,Clippers,,Blake Griffin,elbow/,injury/
+2015/2/9,Clippers,,Blake Griffin,elbow/,surgery/
+2015/2/9,Thunder,,Steven Adams,finger/,surgery/fracture/
+2015/2/19,Knicks,,Carmelo Anthony,knee/tendon/,surgery/
+2015/2/21,Timberwolves,,Shabazz Muhammad,ligament/finger/,rupture/
+2015/2/22,Thunder,,Kevin Durant,foot/,surgery/
+2015/2/23,Timberwolves,,Shabazz Muhammad,ligament/finger/,surgery/rupture/
+2015/2/24,Bulls,,Derrick Rose,knee/,torn/
+2015/2/24,Thunder,,Steve Novak,appendectomy/,
+2015/2/25,Lakers,,Nick Young,kneecap/knee/,fracture/
+2015/2/25,Lakers,,Ronnie Price,hip/elbow/,surgery/
+2015/2/27,Knicks,,Jose Calderon,Achilles/,sore/strained/
+2015/2/27,Bulls,,Derrick Rose,knee/,surgery/torn/
+2015/3/3,Kings,,Darren Collison,hip/,surgery/strained/
+2015/3/6,Blazers,,Wesley Matthews / Wes Matthews Jr.,Achilles/tendon/,torn/
+2015/3/12,Nets,,Sergey Karasev,knee/,surgery/dislocate/torn/
+2015/3/13,Timberwolves,,Kevin Garnett,knee/,sore/
+2015/3/13,Timberwolves,,Nikola Pekovic,ankle/,sprained/
+2015/3/17,Thunder,,Serge Ibaka,knee/,surgery/
+2015/3/21,Lakers,,Steve Nash,,
+2015/3/23,Knicks,,Alexey Shved,rib/,fracture/
+2015/3/23,Knicks,,Travis Wear,back/,sore/
+2015/3/23,Timberwolves,,Gary Neal,ankle/,sprained/
+2015/3/25,Nuggets,,Darrell Arthur,calf/,injury/
+2015/3/27,Rockets,,Donatas Motiejunas,back/,sore/
+2015/3/29,Heat,,Shabazz Napier,hip/hernia/,injury/
+2015/3/30,Timberwolves,,Gorgui Dieng,concussion/,
+2015/3/31,Rockets,,Patrick Beverley,wrist/ligament/,surgery/torn/
+2015/3/31,Thunder,,Kevin Durant,foot/,surgery/
+2015/4/1,Heat,,Shabazz Napier,hernia/,surgery/
+2015/4/1,Pistons,,Spencer Dinwiddie,ankle/,sprained/
+2015/4/2,Blazers,,Dorell Wright,hand/,fracture/
+2015/4/2,Suns,,Alex Len,nose/,fracture/
+2015/4/3,76ers,,Isaiah Canaan,foot/,sprained/
+2015/4/4,Hornets,,Al Jefferson,knee/,sore/
+2015/4/7,Suns,,Alex Len,nose/,fracture/
+2015/4/8,Hawks,,Thabo Sefolosha,fibula/leg/ligament/,fracture/damage/
+2015/4/8,Hornets,,Lance Stephenson,toe/,sprained/
+2015/4/8,Kings,,Rudy Gay,concussion/,
+2015/4/8,Lakers,,Jeremy Lin,knee/,sore/
+2015/4/8,Timberwolves,,Nikola Pekovic,Achilles/,surgery/
+2015/4/8,Nuggets,,Darrell Arthur,calf/,strained/
+2015/4/9,Rockets,,Donatas Motiejunas,back/,surgery/
+2015/4/10,76ers,,Luc Richard Mbah a Moute / Luc Mbah a Moute,shoulder/,sore/strained/
+2015/4/10,76ers,,Nerlens Noel,ankle/,sprained/
+2015/4/10,Blazers,,Arron Afflalo,shoulder/,strained/
+2015/4/12,Suns,,Brandan Wright,foot/ankle/,sore/injury/
+2015/4/12,Suns,,Reggie Bullock,concussion/,
+2015/4/12,Thunder,,Perry Jones III,ankle/,sprained/
+2015/4/13,76ers,,Jason Richardson,knee/,sore/
+2015/4/13,Hornets,,P.J. Hairston,knee/,sprained/
+2015/4/13,Jazz,,Gordon Hayward,Achilles/,injury/
+2015/4/13,Kings,,Reggie Evans,thumb/,sprained/
+2015/4/13,Lakers,,Wesley Johnson / Wes Johnson,ankle/,sprained/
+2015/4/13,Magic,,Evan Fournier,hip/,injury/
+2015/4/13,Pistons,,Tayshaun Prince,,
+2015/4/13,Timberwolves,,Ricky Rubio,ankle/,surgery/
+2015/4/14,Suns,,Marcus Morris,,
+2015/4/15,76ers,,Furkan Aldemir,foot/,plantar fasci/
+2015/4/15,Heat,,Hassan Whiteside,,
+2015/4/15,Nuggets,,Kenneth Faried,,
+2015/4/15,Nuggets,,Randy Foye,,
+2015/4/17,Hawks,,Thabo Sefolosha,fibula/leg/ligament/,surgery/fracture/damage/
+2015/4/18,Rockets,,K.J. McDaniels,elbow/,fracture/
+2015/4/18,Suns,,Brandon Knight,ankle/,surgery/
+2015/4/19,Nets,,Cory Jefferson,,
+2015/4/22,Hornets,,Cody Zeller,shoulder/tendon/,surgery/torn/
+2015/4/22,Mavericks,,Rajon Rondo,back/,injury/
+2015/4/27,Blazers,,Chris Kaman,ankle/,sprained/
+2015/4/27,Cavaliers,,Kevin Love,shoulder/,separated/
+2015/4/28,Mavericks,,Richard Jefferson,back/,injury/
+2015/4/29,Cavaliers,,Kevin Love,shoulder/,surgery/
+2015/5/1,Mavericks,,Chandler Parsons,knee/,surgery/damage/
+2015/5/3,Warriors,,Ognjen Kuzmic / Ognen Kuzmic,ankle/,injury/
+2015/5/6,Pelicans,,Quincy Pondexter,knee/,surgery/
+2015/5/8,Bulls,,Joakim Noah,shin/,
+2015/5/8,Clippers,,Matt Barnes,,
+2015/5/18,Blazers,,LaMarcus Aldridge,thumb/ligament/,surgery/torn/
+2015/5/23,Hawks,,Kyle Korver,ankle/,sprained/
+2015/5/23,Raptors,,Terrence Ross,ankle/,surgery/
+2015/5/27,Hawks,,Kyle Korver,ankle/ligament/,surgery/damage/
+2015/5/28,Hawks,,Shelvin Mack,shoulder/,separated/
+2015/6/2,Kings,,Carl Landry,wrist/ligament/,surgery/torn/
+2015/6/4,Hawks,,Shelvin Mack,shoulder/,surgery/separated/
+2015/6/5,Cavaliers,,Kyrie Irving,kneecap/knee/,fracture/
+2015/6/6,Cavaliers,,Kyrie Irving,kneecap/knee/,surgery/fracture/
+2015/6/16,Bulls,,Taj Gibson,ankle/,surgery/
+2015/6/23,Heat,,Goran Dragic,,
+2015/6/30,Hawks,,Kyle Korver,elbow/,surgery/
+2015/7/2,Cavaliers,,Timofey Mozgov,knee/,surgery/
+2015/7/9,Heat,,Tyler Johnson,jaw/,fracture/
+2015/7/11,76ers,,Joel Embiid,foot/,surgery/
+2015/7/15,Nets,,Thomas Robinson,knee/,surgery/torn/
+2015/7/21,Wizards,,Jared Dudley,back/,surgery/
+2015/8/6,Jazz,,Dante Exum,knee/,torn/
+2015/8/19,76ers,,Joel Embiid,foot/,surgery/
+2015/8/20,Warriors,,Kevon Looney,hip/,surgery/torn/
+2015/9/2,,,Glen Davis,ankle/ligament/,surgery/torn/
+2015/9/2,Grizzlies,,Jarell Martin,foot/,surgery/fracture/
+2015/9/3,,,Landry Fields,hip/,surgery/torn/
+2015/9/3,Jazz,,Dante Exum,knee/,surgery/torn/
+2015/9/22,Pistons,,Darrun Hilliard,nose/,surgery/fracture/
+2015/9/25,Bulls,,Mike Dunleavy Jr.,back/,surgery/
+2015/9/29,Cavaliers,,Iman Shumpert,wrist/,surgery/injury/
+2015/9/30,Bulls,,Derrick Rose,orbital/,surgery/fracture/
+2015/10/1,Warriors,,Steve Kerr,head/back/,surgery/
+2015/10/6,Hornets,,Michael Kidd-Gilchrist,shoulder/,surgery/torn/
+2015/10/6,Pelicans,,Alexis Ajinca / Alex Ajinca,hamstring/,strained/
+2015/10/8,Pelicans,,Omer Asik,calf/,strained/
+2015/10/15,Nets,,Willie Reed,thumb/ligament/,surgery/torn/
+2015/10/20,Pelicans,,Tyreke Evans,knee/,surgery/
+2015/10/26,Wizards,,Martell Webster,hip/,injury/
+2015/10/28,76ers,,Kendall Marshall,knee/,injury/
+2015/10/29,Pistons,,Jodie Meeks,foot/,fracture/
+2015/10/30,Pistons,,Jodie Meeks,foot/,surgery/fracture/
+2015/11/1,Rockets,,Terrence Jones,eye/facial/,injury/
+2015/11/11,Blazers,,Meyers Leonard,shoulder/,dislocate/
+2015/11/12,Pacers,,Myles Turner,hip/thumb/,fracture/
+2015/11/16,Pacers,,Myles Turner,hip/thumb/ligament/,surgery/fracture/torn/
+2015/11/17,Nuggets,,Wilson Chandler,hip/,surgery/torn/
+2015/11/20,Wizards,,Martell Webster,hip/,surgery/
+2015/11/21,Raptors,,Jonas Valanciunas,hand/,fracture/
+2015/11/27,Pacers,,Myles Turner,hip/thumb/ligament/,surgery/fracture/torn/
+2015/11/30,Hornets,,Al Jefferson,calf/,strained/
+2015/11/30,Nets,,Andrea Bargnani,hamstring/,sore/
+2015/12/2,Jazz,,Rudy Gobert,knee/,sprained/
+2015/12/3,Kings,,Willie Cauley-Stein,finger/,dislocate/
+2015/12/3,Pistons,,Aron Baynes,nose/,surgery/fracture/
+2015/12/9,Nets,,Rondae Hollis-Jefferson,ankle/,surgery/fracture/
+2015/12/15,Bucks,,Greivis Vasquez,ankle/,surgery/
+2015/12/16,Grizzlies,,Brandan Wright,knee/,surgery/
+2015/12/16,Kings,,Eric Moreland,foot/,surgery/fracture/
+2015/12/20,Bucks,,Jason Kidd,hip/,surgery/
+2015/12/26,Suns,,Eric Bledsoe,knee/,sprained/
+2015/12/26,Grizzlies,,Jordan Adams,knee/,sore/
+2015/12/27,Jazz,,Alec Burks,fibula/leg/,fracture/
+2015/12/29,Jazz,,Alec Burks,fibula/leg/,surgery/fracture/
+2015/12/29,Suns,,Eric Bledsoe,knee/,surgery/torn/
+2015/12/30,Hornets,,Al Jefferson,knee/,torn/
+2015/12/31,Hornets,,Al Jefferson,knee/,surgery/torn/
+2016/1/3,Nets,,Jarrett Jack,knee/,torn/
+2016/1/6,Raptors,,DeMarre Carroll,knee/,surgery/
+2016/1/11,Pelicans,,Quincy Pondexter,knee/,surgery/damage/
+2016/1/12,Magic,,Joe Harris,foot/,surgery/
+2016/1/13,Nets,,Jarrett Jack,knee/ligament/,surgery/torn/
+2016/1/15,Bulls,,Joakim Noah,shoulder/,separated/
+2016/1/15,Suns,,Ronnie Price,toe/,surgery/
+2016/1/19,Bulls,,Joakim Noah,shoulder/,surgery/
+2016/1/20,Pelicans,,Eric Gordon,finger/,surgery/fracture/
+2016/1/21,Suns,,P.J. Tucker,chest/,bruise/
+2016/1/22,Celtics,,Jordan Mickey,ankle/,injury/
+2016/1/22,Warriors,Steve Kerr,,head/,
+2016/1/25,Bucks,Jason Kidd,,head/,
+2016/1/26,Clippers,,Blake Griffin,hand/,injury/fracture/
+2016/1/27,Bulls,,Nikola Mirotic,appendix/,surgery/
+2016/1/28,Pelicans,,Tyreke Evans,knee/,injury/
+2016/1/31,Suns,,T.J. Warren,foot/,fracture/
+2016/2/3,Heat,,Tyler Johnson,shoulder/,surgery/
+2016/2/4,Spurs,,Emanuel Ginobili / Manu Ginobili,testicle/,surgery/injury/
+2016/2/8,Grizzlies,,Marc Gasol,foot/,fracture/
+2016/2/8,Warriors,,Festus Ezeli,knee/,surgery/
+2016/2/11,Hornets,,Michael Kidd-Gilchrist,shoulder/,torn/
+2016/2/11,Pelicans,,Tyreke Evans,knee/,surgery/
+2016/2/16,Hawks,,Tiago Splitter,hip/,surgery/
+2016/2/17,Heat,,Chris Bosh,,blood clot/
+2016/2/23,Grizzlies,,Marc Gasol,foot/,surgery/fracture/
+2016/2/24,Heat,,Beno Udrih,foot/,surgery/torn/
+2016/2/25,Pelicans,,Bryce Dejean-Jones,wrist/,surgery/fracture/
+2016/2/28,Bucks,,Steve Novak,knee/,sprained/
+2016/3/5,Lakers,,Anthony Brown,foot/,stress reaction/
+2016/3/7,Bucks,,Michael Carter-Williams,hip/,torn/
+2016/3/7,Grizzlies,,Mike Conley Jr.,Achilles/,tendinitis/
+2016/3/7,Pelicans,,Eric Gordon,finger/,fracture/
+2016/3/8,Knicks,,Lance Thomas,knee/,sprained/
+2016/3/8,Pelicans,,Eric Gordon,finger/,surgery/fracture/
+2016/3/9,Bucks,,Michael Carter-Williams,hip/,surgery/torn/
+2016/3/9,Grizzlies,,Mario Chalmers,Achilles/tendon/,rupture/
+2016/3/9,Pelicans,,Norris Cole (a),back/,injury/
+2016/3/10,Bucks,,Michael Carter-Williams,hip/,surgery/torn/
+2016/3/10,Bucks,,O.J. Mayo,ankle/,fracture/
+2016/3/12,Rockets,,Sam Dekker,back/,sore/
+2016/3/16,Blazers,,Meyers Leonard,shoulder/,dislocate/
+2016/3/17,Knicks,,Tony Wroten Jr.,knee/,injury/
+2016/3/17,Mavericks,,Jeremy Evans,shoulder/,surgery/torn/
+2016/3/18,Mavericks,,Chandler Parsons,knee/,sore/
+2016/3/19,Pelicans,,Anthony Davis,shoulder/knee/,injury/torn/
+2016/3/20,Pelicans,,Ryan Anderson,hernia/groin/,injury/
+2016/3/22,76ers,,Jahlil Okafor,knee/,surgery/torn/
+2016/3/23,Bucks,,Steve Novak,knee/,sprained/
+2016/3/24,Pelicans,,Anthony Davis,knee/,surgery/
+2016/3/25,Mavericks,,Chandler Parsons,knee/,surgery/
+2016/3/25,Warriors,,Kevon Looney,hip/,injury/
+2016/3/27,76ers,,Richaun Holmes,Achilles/tendon/,strained/
+2016/3/27,Kings,,Marco Belinelli,foot/,sore/
+2016/3/29,Pelicans,,Alonzo Gee,quadricep/,torn/
+2016/3/29,Pelicans,,Jrue Holiday,orbital/,fracture/
+2016/3/30,Knicks,,Jose Calderon,quadricep/,bruise/
+2016/3/30,Knicks,,Kristaps Porzingis,shoulder/,sore/strained/
+2016/3/31,Bulls,,Taj Gibson,rib/,fracture/bruise/
+2016/4/1,Bucks,,Jerryd Bayless,knee/,hyperextended/
+2016/4/1,Suns,,Brandon Knight,hernia/,
+2016/4/2,Nuggets,,Darrell Arthur,knee/,sore/
+2016/4/8,76ers,,Carl Landry,back/,sore/strained/
+2016/4/8,76ers,,Isaiah Canaan,shoulder/,torn/
+2016/4/8,Grizzlies,,Jordan Adams,knee/,surgery/
+2016/4/8,Suns,,Brandon Knight,hernia/,surgery/
+2016/4/9,Blazers,,Meyers Leonard,shoulder/,surgery/
+2016/4/9,Suns,,Brandon Knight,hernia/,surgery/
+2016/4/11,Bulls,,E'Twaun Moore,hamstring/,injury/
+2016/4/11,Nets,,Thomas Robinson,knee/,sore/
+2016/4/11,Pelicans,,Alexis Ajinca / Alex Ajinca,shoulder/,injury/
+2016/4/11,Pelicans,,Jrue Holiday,orbital/,surgery/fracture/
+2016/4/11,Pelicans,,Jrue Holiday,orbital/,surgery/fracture/
+2016/4/11,Suns,,Tyson Chandler,concussion/,
+2016/4/13,76ers,,Nik Stauskas,knee/,injury/
+2016/4/13,Jazz,,Alec Burks,knee/,sore/
+2016/4/13,Jazz,,Derrick Favors,knee/,sore/
+2016/4/13,Mavericks,,Devin Harris,thumb/,sprained/
+2016/4/13,Nuggets,,Joffrey Lauvergne,back/,injury/
+2016/4/22,Grizzlies,,Jarell Martin,foot/,sore/
+2016/4/24,Mavericks,,Deron Williams,hernia/,
+2016/4/25,Clippers,,Chris Paul,hand/,fracture/
+2016/4/25,Mavericks,,David Lee,foot/heel/,plantar fasci/
+2016/4/25,Mavericks,,Salah Mejri,hip/,strained/
+2016/4/26,Clippers,,Blake Griffin,quadricep/,injury/
+2016/4/26,Clippers,,Chris Paul,hand/,surgery/fracture/
+2016/4/28,Hornets,,Spencer Hawes,knee/,sprained/
+2016/5/1,Hornets,,Tyler Hansbrough,back/,spasm/
+2016/5/5,Wizards,,John Wall (a),knee/,surgery/
+2016/5/7,Heat,,Hassan Whiteside,knee/,sprained/
+2016/5/9,Hornets,,Kemba Walker,knee/,surgery/torn/
+2016/5/10,Mavericks,,Devin Harris,thumb/toe/,surgery/
+2016/5/17,Celtics,,Kelly Olynyk,shoulder/,surgery/
+2016/6/8,Jazz,,Alec Burks,ankle/knee/,surgery/
+2016/6/15,Warriors,,Andrew Bogut,knee/,injury/
+2016/6/29,Hornets,,Frank Kaminsky,air pocket/lung/,surgery/
+2016/6/30,Mavericks,,Salah Mejri,knee/,surgery/
+2016/7/6,Magic,,C.J. Watson,hand/,fracture/
+2016/7/8,Magic,,C.J. Watson,hand/,surgery/fracture/
+2016/7/19,Magic,,Jodie Meeks,foot/,surgery/
+2016/7/25,Thunder,,Cameron Payne,foot/,surgery/fracture/
+2016/8/2,Raptors,,Delon Wright,shoulder/,surgery/torn/
+2016/8/31,Blazers,,Noah Vonleh,thigh/,surgery/
+2016/9/8,Heat,,Josh Richardson,knee/,torn/
+2016/9/15,Suns,,P.J. Tucker,back/,surgery/
+2016/9/21,Bucks,,Khris Middleton,hamstring/,torn/
+2016/9/22,Hawks,,Paul Millsap,knee/,swelling/
+2016/9/26,Timberwolves,,Nikola Pekovic,ankle/,sore/
+2016/9/29,Bucks,,Khris Middleton,hamstring/,surgery/torn/
+2016/10/1,76ers,,Ben Simmons,foot/,fracture/
+2016/10/4,76ers,,Ben Simmons,foot/,surgery/fracture/
+2016/10/4,Timberwolves,,Nikola Pekovic,foot/,sore/
+2016/10/5,Nuggets,,Gary Harris,muscle/groin/,torn/
+2016/10/5,Pistons,,Reggie Jackson (b),knee/,tendinitis/
+2016/10/6,Hornets,,Cody Zeller,knee/,bruise/
+2016/10/7,Jazz,,Gordon Hayward,finger/,fracture/
+2016/10/8,Clippers,,Brice Johnson,back/hernia/,herniated disc/
+2016/10/10,Pistons,,Reggie Jackson (b),thumb/,sprained/
+2016/10/11,Hawks,,Tiago Splitter,hamstring/,strained/
+2016/10/15,Knicks,,Chasson Randle,orbital/,fracture/
+2016/10/15,Wizards,,Ian Mahinmi,knee/,surgery/torn/
+2016/10/21,76ers,,Nerlens Noel,knee/,surgery/
+2016/10/21,Spurs,,Danny Green,quadricep/,strained/
+2016/10/22,Rockets,,Patrick Beverley,knee/,injury/
+2016/10/23,Raptors,,Jared Sullinger,foot/,surgery/fracture/
+2016/10/23,Rockets,,Patrick Beverley,knee/,surgery/
+2016/10/24,76ers,,Jerryd Bayless,wrist/,sore/
+2016/10/24,Blazers,,Festus Ezeli,knee/,sore/
+2016/10/24,Heat,,Chris Bosh,,blood clot/
+2016/10/24,Pelicans,,Quincy Pondexter,knee/,surgery/
+2016/10/24,Pelicans,,Tyreke Evans,knee/,surgery/
+2016/11/1,Bulls,,Michael Carter-Williams,knee/,bruise/
+2016/11/1,Jazz,,Alec Burks,ankle/,surgery/
+2016/11/5,Pelicans,,Lance Stephenson,muscle/groin/,surgery/torn/
+2016/11/16,Grizzlies,,Brandan Wright,ankle/,surgery/
+2016/11/17,Mavericks,,Jose Juan Barea / Jose Barea / J.J. Barea,calf/muscle/leg/,strained/torn/
+2016/11/24,Pelicans,,Dante Cunningham,fibula/leg/,fracture/
+2016/11/25,Wizards,,Danuel House,wrist/,fracture/
+2016/11/27,76ers,,Jerryd Bayless,wrist/,sore/
+2016/12/15,76ers,,Jerryd Bayless,wrist/ligament/,surgery/torn/
+2016/12/16,Cavaliers,,Chris Andersen,knee/,torn/
+2016/12/19,Clippers,,Blake Griffin,knee/,surgery/
+2016/12/19,Rockets,,Clint Capela,fibula/leg/,fracture/
+2016/12/21,Cavaliers,,J.R. Smith,thumb/,fracture/
+2016/12/23,Cavaliers,,J.R. Smith,thumb/,surgery/fracture/
+2016/12/23,Cavaliers,,J.R. Smith,thumb/,surgery/fracture/
+2017/1/1,Heat,,Justise Winslow,shoulder/,torn/
+2017/1/3,Pelicans,,Quincy Pondexter,knee/,surgery/
+2017/1/5,Heat,,Justise Winslow,shoulder/,surgery/torn/
+2017/1/16,Knicks,,Lance Thomas,orbital/,fracture/
+2017/1/17,Clippers,,Chris Paul,thumb/ligament/,surgery/torn/
+2017/1/18,Kings,,Rudy Gay,Achilles/tendon/,torn/
+2017/1/19,Kings,,Rudy Gay,Achilles/tendon/,surgery/torn/
+2017/1/20,Spurs,,Pau Gasol,finger/,surgery/fracture/
+2017/1/24,Magic,,Jodie Meeks,thumb/,surgery/dislocate/
+2017/1/26,Thunder,,Enes Kanter,arm/hand/,fracture/
+2017/1/27,Thunder,,Enes Kanter,arm/hand/,surgery/fracture/
+2017/1/29,Blazers,,Ed Davis (a),wrist/,injury/
+2017/1/30,76ers,,Joel Embiid,knee/,bruise/
+2017/2/3,Hornets,,Ramon Sessions,knee/,torn/
+2017/2/3,Timberwolves,,Zach LaVine,knee/,torn/
+2017/2/4,76ers,,Joel Embiid,knee/,sore/
+2017/2/6,76ers,,Joel Embiid,knee/,bruise/
+2017/2/7,Blazers,,Evan Turner,hand/,fracture/
+2017/2/8,,,Dragan Bender,ankle/,surgery/
+2017/2/8,Blazers,,Evan Turner,hand/,surgery/fracture/
+2017/2/8,Bucks,,Jabari Parker,knee/,torn/
+2017/2/8,Hornets,,Ramon Sessions,knee/,surgery/torn/
+2017/2/9,Blazers,,Evan Turner,hand/,surgery/fracture/
+2017/2/11,76ers,,Joel Embiid,knee/,bruise/
+2017/2/15,Bucks,,Jabari Parker,knee/,surgery/torn/
+2017/2/23,Pelicans,,Omri Casspi,thumb/,fracture/
+2017/2/27,Knicks,,Joakim Noah,knee/,surgery/
+2017/2/27,Raptors,,Kyle Lowry,wrist/,surgery/
+2017/3/1,Blazers,,Ed Davis (a),shoulder/,surgery/
+2017/3/1,Knicks,,Maurice Ndour / Maurice N'dour,ankle/,sprained/
+2017/3/1,Warriors,,Kevin Durant,knee/,sprained/
+2017/3/2,Blazers,,Ed Davis (a),shoulder/,surgery/
+2017/3/4,Blazers,,Festus Ezeli,knee/,surgery/
+2017/3/8,Cavaliers,,Andrew Bogut,tibia/leg/,fracture/
+2017/3/9,Hornets,,Johnny O'Bryant III,ankle/,sprained/
+2017/3/13,Grizzlies,,Chandler Parsons,knee/,torn/
+2017/3/15,Bulls,,Dwyane Wade,elbow/,fracture/
+2017/3/15,Suns,,Eric Bledsoe,knee/,injury/
+2017/3/15,Timberwolves,,Nemanja Bjelica,foot/ankle/,injury/
+2017/3/17,Nets,,Joe Harris,shoulder/,sprained/
+2017/3/18,Heat,,Dion Waiters,ankle/,sprained/
+2017/3/21,Timberwolves,,Nemanja Bjelica,foot/,surgery/
+2017/3/23,Knicks,,Lance Thomas,hip/,sore/
+2017/3/23,Pacers,,Glenn Robinson III,calf/,strained/
+2017/3/24,76ers,,Jahlil Okafor,knee/,sore/
+2017/3/24,76ers,,Joel Embiid,knee/,surgery/torn/
+2017/3/26,Suns,,Leandro Barbosa,hamstring/,sore/
+2017/3/28,76ers,,Sergio Rodriguez,hamstring/,strained/
+2017/3/29,76ers,,Robert Covington,knee/,swelling/
+2017/3/30,76ers,,Robert Covington,knee/,torn/
+2017/3/31,Blazers,,Jusuf Nurkic,fibula/leg/,fracture/
+2017/3/31,Lakers,,Ivica Zubac,ankle/,sprained/
+2017/3/31,Mavericks,,Seth Curry,shoulder/,sore/
+2017/4/2,76ers,,Sergio Rodriguez,knee/,strained/
+2017/4/3,Rockets,,Sam Dekker,hand/,fracture/
+2017/4/4,76ers,,Sergio Rodriguez,hamstring/,strained/
+2017/4/5,Heat,,Luke Babbitt,hip/,strained/
+2017/4/5,Knicks,,Derrick Rose,knee/,surgery/torn/
+2017/4/6,Nuggets,,Jameer Nelson,calf/,strained/
+2017/4/6,Pelicans,,DeMarcus Cousins,Achilles/,tendinitis/
+2017/4/6,Knicks,,Kristaps Porzingis,back/,sore/
+2017/4/8,Hornets,,Marco Belinelli,finger/,strained/
+2017/4/8,Pacers,,Al Jefferson,ankle/,sprained/
+2017/4/8,Pelicans,,Anthony Davis,knee/,sore/
+2017/4/8,Pelicans,,E'Twaun Moore,ankle/,sprained/
+2017/4/9,Nets,,Quincy Acy,ankle/,sore/
+2017/4/10,Hornets,,Kemba Walker,knee/,sore/
+2017/4/10,Nuggets,,Emmanuel Mudiay,ankle/,sore/sprained/
+2017/4/10,Warriors,,Kevon Looney,hip/,strained/
+2017/4/10,Heat,,Josh McRoberts,foot/,fracture/
+2017/4/11,Nuggets,,Kenneth Faried,back/,injury/
+2017/4/12,76ers,,Dario Saric,heel/,sore/
+2017/4/12,Nuggets,,Gary Harris,knee/,sore/
+2017/4/12,Pistons,,Beno Udrih,knee/,injury/
+2017/4/13,Grizzlies,,Tony Allen,calf/,strained/
+2017/4/22,Clippers,,Blake Griffin,toe/,injury/
+2017/4/24,Blazers,,Jusuf Nurkic,fibula/leg/,fracture/
+2017/4/27,Knicks,,Joakim Noah,shoulder/rotator/,surgery/torn/
+2017/4/27,Nuggets,,Jamal Murray,muscle/,surgery/
+2017/5/1,Clippers,,Blake Griffin,toe/,surgery/
+2017/5/3,Lakers,,Luol Deng,muscle/,surgery/
+2017/5/4,Spurs,,(William) Tony Parker,leg/tendon/quadricep/,rupture/
+2017/5/8,Rockets,,Nene / Nene Hilario / Maybyner Hilario,muscle/,torn/
+2017/5/13,Cavaliers,,Walter Tavares / Edy Tavares,hand/,fracture/
+2017/5/17,Bulls,,Denzel Valentine,ankle/,surgery/
+2017/5/17,Hornets,,Kemba Walker,knee/,surgery/
+2017/5/17,Warriors,,Zaur Pachulia / Zaza Pachulia,heel/,bruise/
+2017/5/20,Celtics,,Isaiah Thomas,hip/,injury/
+2017/5/21,Spurs,,David Lee,knee/tendon/,torn/
+2017/5/22,Spurs,,Kawhi Leonard,ankle/,sprained/
+2017/5/23,Celtics,,Amir Johnson,shoulder/,sprained/
+2017/5/24,Clippers,,Luc Richard Mbah a Moute / Luc Mbah a Moute,,
+2017/6/28,Suns,,Jared Dudley,ligament/,surgery/
+2017/7/4,Timberwolves,,Justin Patton,foot/,surgery/fracture/
+2017/7/25,Suns,,Brandon Knight,knee/,torn/
+2017/7/30,Clippers,,Danilo Gallinari,hand/,fracture/
+2017/8/8,Grizzlies,,Ben McLemore,foot/,surgery/fracture/
+2017/8/10,Thunder,,Patrick Patterson,knee/,surgery/
+2017/8/28,Pelicans,,Solomon Hill,hamstring/,surgery/torn/
+2017/9/1,Pelicans,,Frank Jackson,foot/,fracture/
+2017/9/6,Bulls,,Cameron Payne,foot/,surgery/fracture/
+2017/9/13,Hawks,,DeAndre' Bembry / DeAndre Bembry,,strained/
+2017/9/18,Raptors,,Ogugua Anunoby / O.G. Anunoby,knee/,torn/
+2017/9/22,Wizards,,Markieff Morris,hernia/,surgery/
+2017/9/25,Suns,,Alan Williams,knee/,surgery/torn/
+2017/9/30,Spurs,,Kawhi Leonard,quadricep/,sore/
+2017/10/5,Hornets,,Nicolas Batum,ligament/elbow/,torn/
+2017/10/6,Kings,,Harry Giles,knee/,surgery/
+2017/10/7,Bulls,,Kris Dunn,finger/,dislocate/
+2017/10/7,Jazz,,Dante Exum,shoulder/,separated/
+2017/10/7,Mavericks,,Seth Curry,tibia/leg/,stress reaction/
+2017/10/8,76ers,,Richaun Holmes,wrist/,fracture/
+2017/10/9,Pelicans,,Rajon Rondo,hernia/,surgery/
+2017/10/9,Wizards,,Sheldon McClellan / Sheldon Mac,Achilles/tendon/,torn/
+2017/10/10,Wizards,,Sheldon McClellan / Sheldon Mac,Achilles/tendon/,surgery/torn/
+2017/10/12,Heat,,Rodney McGruder,leg/,surgery/fracture/
+2017/10/12,Suns,,Davon Reed,knee/,surgery/torn/
+2017/10/14,Pacers,,Glenn Robinson III,ankle/,surgery/
+2017/10/16,Jazz,,Dante Exum,shoulder/,surgery/separated/
+2017/10/17,Bulls,,Nikola Mirotic,face/,fracture/
+2017/10/17,Celtics,,Gordon Hayward,tibia/ankle/leg/,dislocate/fracture/
+2017/10/18,Bucks,,Jabari Parker,knee/,surgery/torn/
+2017/10/18,Celtics,,Gordon Hayward,tibia/ankle/leg/,surgery/dislocate/fracture/
+2017/10/18,Nets,,Jeremy Lin,knee/tendon/,rupture/
+2017/10/22,Clippers,,Milos Teodosic / Milos Tedosic,foot/,plantar fasci/
+2017/10/24,Blazers,,C.J. Wilcox,knee/,injury/
+2017/10/24,Hawks,,DeAndre' Bembry / DeAndre Bembry,wrist/,surgery/fracture/
+2017/11/2,Cavaliers,,Tristan Thompson,calf/,strained/
+2017/11/3,Lakers,,Larry Nance Jr.,thumb/hand/,surgery/fracture/
+2017/11/9,Blazers,,C.J. Wilcox,knee/,surgery/
+2017/11/14,Heat,,Okaro White,foot/,fracture/
+2017/11/16,Raptors,,Delon Wright,shoulder/,dislocate/
+2017/11/17,Nets,,D'Angelo Russell,knee/,surgery/
+2017/11/21,Bucks,,Mirza Teletovic,knee/,surgery/torn/
+2017/11/22,Clippers,,Patrick Beverley,knee/,surgery/
+2017/11/27,Nuggets,,Paul Millsap,wrist/,surgery/
+2017/11/28,Clippers,,Blake Griffin,knee/,sprained/
+2017/11/30,Magic,,Terrence Ross,leg/knee/,fracture/sprained/
+2017/12/1,Cavaliers,,Iman Shumpert,knee/,surgery/
+2017/12/1,Mavericks,,Nerlens Noel,thumb/,surgery/
+2017/12/2,Hawks,,John Collins (b),shoulder/,injury/
+2017/12/6,Hornets,,Steve Clifford,head/,
+2017/12/6,Suns,,Devin Booker,groin/,strained/
+2017/12/7,Hornets,,Cody Zeller,knee/,torn/
+2017/12/7,Pelicans,,Alexis Ajinca / Alex Ajinca,knee/,surgery/
+2017/12/14,Bucks,,Mirza Teletovic,lung/,blood clot/
+2017/12/15,Cavaliers,,John Holland,shoulder/,subluxation/
+2017/12/17,76ers,,Furkan Korkmaz,foot/,injury/
+2017/12/23,Magic,,Nikola Vucevic,hand/,fracture/
+2017/12/27,Pistons,,Reggie Jackson (b),ankle/,sprained/
+2018/1/12,Heat,,Dion Waiters,ankle/,surgery/
+2018/1/13,Jazz,,Thabo Sefolosha,knee/,surgery/
+2018/1/16,Hornets,Steve Clifford,,head/,
+2018/1/18,Bulls,,Kris Dunn,concussion/,
+2018/1/19,Warriors,,Jordan Bell,ankle/,injury/
+2018/1/26,Pelicans,,DeMarcus Cousins,Achilles/tendon/,torn/
+2018/1/27,Grizzlies,,Mike Conley Jr.,heel/,surgery/
+2018/1/27,Nuggets,,Tyler Lydon,knee/,surgery/
+2018/1/27,Pelicans,,DeMarcus Cousins,Achilles/tendon/,surgery/torn/
+2018/1/27,Thunder,,Andre Roberson,knee/tendon/,torn/
+2018/1/28,Thunder,,Andre Roberson,knee/tendon/,surgery/torn/
+2018/1/30,Cavaliers,,Kevin Love,hand/,fracture/
+2018/1/31,Pelicans,,DeMarcus Cousins,Achilles/tendon/,surgery/torn/
+2018/1/31,Suns,,Isaiah Canaan,ankle/,fracture/
+2018/1/31,Wizards,,John Wall (a),knee/,surgery/
+2018/2/2,Bucks,,Malcolm Brogdon,leg/tendon/quadricep/,torn/
+2018/2/5,Pacers,,Darren Collison,knee/,surgery/
+2018/2/6,Knicks,,Kristaps Porzingis,knee/,torn/
+2018/2/7,Knicks,,Ron Baker,shoulder/,surgery/
+2018/2/8,Mavericks,,Seth Curry,leg/,surgery/fracture/
+2018/2/13,Knicks,,Kristaps Porzingis,knee/,surgery/torn/
+2018/2/16,Lakers,,Channing Frye,appendectomy/,
+2018/2/17,Lakers,,Channing Frye,appendectomy/,
+2018/2/25,Timberwolves,,Jimmy Butler,knee/,surgery/injury/
+2018/2/28,Lakers,,Josh Hart,hand/,fracture/
+2018/3/2,Clippers,,Danilo Gallinari,hand/,fracture/
+2018/3/2,Lakers,,Josh Hart,hand/,surgery/fracture/
+2018/3/5,Hawks,,Malcolm Delaney,ankle/,sprained/
+2018/3/5,Hornets,,Michael Carter-Williams,shoulder/,sprained/
+2018/3/8,Magic,,Evan Fournier,knee/,sprained/
+2018/3/9,Celtics,,Jaylen Brown,concussion/,
+2018/3/9,Hornets,,Michael Carter-Williams,shoulder/,surgery/
+2018/3/9,Thunder,,Terrance Ferguson,concussion/,
+2018/3/10,Cavaliers,,Cedi Osman,hip/,strained/
+2018/3/11,Mavericks,,Wesley Matthews / Wes Matthews Jr.,fibula/,fracture/
+2018/3/12,Celtics,,Daniel Theis,knee/,torn/
+2018/3/12,Celtics,,Marcus Smart,thumb/,sprained/
+2018/3/12,Hawks,,Jaylen Morris,ankle/,sprained/
+2018/3/12,Hawks,,Kent Bazemore,knee/,bruise/
+2018/3/12,Jazz,,Raulzinho Neto / Raul Neto,wrist/,fracture/
+2018/3/13,Clippers,,Avery Bradley,hernia/,surgery/
+2018/3/16,Bulls,,Kris Dunn,toe/,sprained/
+2018/3/16,Celtics,,Marcus Smart,thumb/,surgery/
+2018/3/17,Suns,,Devin Booker,hand/,sprained/
+2018/3/17,Suns,,Tyson Chandler,neck/,injury/
+2018/3/19,Cavaliers,,Tyronn Lue,head/,
+2018/3/20,Magic,,Jonathon Simmons,wrist/,bruise/
+2018/3/21,Kings,,Garrett Temple,ankle/,sprained/
+2018/3/22,Bulls,,Antonio Blakeney,wrist/,fracture/
+2018/3/23,Celtics,,Kyrie Irving,knee/,surgery/
+2018/3/24,Lakers,,Isaiah Thomas,hip/,injury/
+2018/3/24,Warriors,,Stephen Curry,knee/,sprained/
+2018/3/25,Hawks,,Dennis Schroder,ankle/,sprained/
+2018/3/26,Bulls,,Paul Zipser,foot/,sore/
+2018/3/27,Pelicans,,Alexis Ajinca / Alex Ajinca,knee/,surgery/
+2018/3/27,Blazers,,Maurice Harkless / Moe Harkless,knee/,surgery/
+2018/3/28,Cavaliers,,Kevin Love,concussion/,
+2018/3/28,Clippers,,Milos Teodosic,foot/,plantar fasci/
+2018/3/28,Grizzlies,,Andrew Harrison,wrist/,injury/
+2018/3/28,Lakers,,Isaiah Thomas,hip/,surgery/
+2018/3/28,Nets,,Isaiah Whitehead,wrist/,sprained/
+2018/3/28,Suns,,Elfrid Payton,knee/,injury/
+2018/3/29,76ers,,Joel Embiid,orbital/,fracture/
+2018/3/30,Clippers,,Jawun Evans,hernia/,injury/
+2018/3/30,Lakers,,Lonzo Ball,knee/,bruise/
+2018/3/31,76ers,,Joel Embiid,orbital/,surgery/fracture/
+2018/4/1,Grizzlies,,JaMychal Green,knee/,sore/
+2018/4/1,Hornets,,Dwayne Bacon,ankle/,sprained/
+2018/4/2,Knicks,,Troy Williams,jaw/,fracture/
+2018/4/3,Bulls,,Denzel Valentine,knee/,surgery/
+2018/4/3,Clippers,,Danilo Gallinari,hand/,sore/
+2018/4/3,Grizzlies,,Wayne Selden Jr.,knee/,sore/
+2018/4/3,Kings,,Skal Labissiere,ankle/,sprained/
+2018/4/3,Magic,,Jonathan Isaac,ankle/,sprained/
+2018/4/3,Nets,,Isaiah Whitehead,wrist/,surgery/
+2018/4/4,Nets,,DeMarre Carroll,hip/,strained/
+2018/4/5,Cavaliers,Tyronn Lue,,head/,
+2018/4/5,Celtics,,Kyrie Irving,knee/,surgery/
+2018/4/5,Grizzlies,,Jarell Martin,ankle/,injury/
+2018/4/5,Mavericks,,Dirk Nowitzki,ankle/,surgery/
+2018/4/5,Suns,,Alan Williams,knee/,sore/
+2018/4/7,Knicks,,Tim Hardaway Jr.,ankle/,sprained/
+2018/4/8,Suns,,Josh Jackson,quadricep/,bruise/
+2018/4/9,Clippers,,Austin Rivers,elbow/,sore/
+2018/4/9,Clippers,,Louis Williams / Lou Williams,ankle/,sprained/
+2018/4/9,Hawks,,Malcolm Delaney,ankle/,surgery/
+2018/4/9,Kings,,Frank Mason,foot/,plantar fasci/torn/
+2018/4/9,Nets,,Joe Harris,ankle/,sprained/
+2018/4/10,Mavericks,,Doug McDermott,elbow/,injury/
+2018/4/11,Knicks,,Courtney Lee,ankle/,sprained/
+2018/4/12,Hawks,,DeAndre' Bembry / DeAndre Bembry,wrist/,fracture/
+2018/4/18,Timberwolves,,Justin Patton,foot/,surgery/
+2018/4/26,Nuggets,,Mason Plumlee,muscle/,surgery/injury/
+2018/4/27,Wizards,,Otto Porter Jr.,leg/,surgery/
+2018/5/7,Jazz,,Dante Exum,hamstring/,strained/
+2018/5/9,Celtics,,Shane Larkin,shoulder/,sprained/
+2018/5/9,Thunder,,Paul George,knee/,surgery/
+2018/5/25,Rockets,,Chris Paul,hamstring/,strained/

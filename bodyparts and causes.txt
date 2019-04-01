@@ -1,0 +1,10 @@
+humanbody={'ligament', 'hand', 'footheel', 'knee', 'nose', 'rib', 'orbital', 'tooth', 'pulmonary', 'facial', 'knee',
+           'Acchilles', 'muscle', 'handthumb', 'calf', 'atrial', 'heart', 'handfinger', 'back', 'arm', 'neck', 'ankle',
+           'lung', 'thigh', 'leg', 'tibia', 'elbow', 'tonsils', 'appendectomy', 'jaw', 'shoulder', 'groin', 'hamstring',
+           'hip', 'tendon', 'appendix', 'bicep', 'hernia', 'head', 'wrist', 'concussion', 'finger', 'foot', 'spinal', 'shin',
+           'quadricep', 'kneecap', 'rotator', 'eye', 'chest', 'testicle', 'quadricep', 'face', 'abdomen', 'air', 'toe',
+           'heel', 'fibula', 'Achilles', 'thumb', 'cheekbone','air pocket'}
+
+causes={'sprained', 'sore', 'strained', 'broken','blood clot','surgery','fracture','torn','injury','bruise','dislocate',
+        'hyperextended','rupture','tendinitis','scar','herniated disc','damage','nerve','separated','bursitis','plantar fasci','stress reaction',
+        'spasm','swelling','subluxation','enlarged'}
