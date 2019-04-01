@@ -3,6 +3,15 @@ import json
 import csv
 import pickle
 
+temp_dict = {'Octorber': 10, 'Novermber': 11, 'December': 12, 'January': 1, 'February': 2, 'March': 3, 'April': 4}
+
+def find_index(MonthlyData_list, month):
+    for i in range(len(MonthlyData_list)):
+        if month == temp_dict[MonthlyData_list[i][1]]:
+            return i 
+    return -10 # used to capture bug
+
+
 # Need to consider jihousai and changguisai different defense level
 def main():
     month_index_dict = {10:0, 11:1, 12:2, 1:3, 2:4, 3:5, 4:6, 5:7, 6:8}
@@ -62,37 +71,41 @@ def main():
         MonthlyData_list_additional = None
         before_injury = []
         after_injury = []
-        # make additional request if need data from prev year or next year
-        if injuried_month == 10:
-            year = str(injuried_year-1)+'-'+str(injuried_year)[-2:]
+        # make additional request for prev year
+        year = str(injuried_year-1)+'-'+str(injuried_year)[-2:]
+        url = "https://stats.nba.com/stats/playerdashboardbygeneralsplits?DateFrom=&DateTo=&GameSegment=&LastNGames=0&LeagueID=00&Location=&MeasureType=Base&Month=0&OpponentTeamID=0&Outcome=&PORound=0&PaceAdjust=N&PerMode=PerGame&Period=0&PlayerID=" + playerID + "&PlusMinus=N&Rank=N&Season=" + year + "&SeasonSegment=&SeasonType=Regular+Season&ShotClockRange=&Split=general&VsConference=&VsDivision="
+        r = requests.get(url,headers=headers)
+        parsed = json.loads(r.text)
+        # make additional request if need data from prev yaer or next year
+        MonthlyData_dict = parsed['resultSets'][3]
+        MonthlyData_list_additional = MonthlyData_dict['rowSet']
+        num = 0
+        cur_year = injuried_year - 1
+        while MonthlyData_list_additional == []:
+            print('here')
+            year = str(cur_year)+'-'+str(cur_year+1)[-2:]
             url = "https://stats.nba.com/stats/playerdashboardbygeneralsplits?DateFrom=&DateTo=&GameSegment=&LastNGames=0&LeagueID=00&Location=&MeasureType=Base&Month=0&OpponentTeamID=0&Outcome=&PORound=0&PaceAdjust=N&PerMode=PerGame&Period=0&PlayerID=" + playerID + "&PlusMinus=N&Rank=N&Season=" + year + "&SeasonSegment=&SeasonType=Regular+Season&ShotClockRange=&Split=general&VsConference=&VsDivision="
             r = requests.get(url,headers=headers)
             parsed = json.loads(r.text)
             # make additional request if need data from prev yaer or next year
             MonthlyData_dict = parsed['resultSets'][3]
             MonthlyData_list_additional = MonthlyData_dict['rowSet']
-            num = 0
-            cur_year = injuried_year - 1
-            while MonthlyData_list_additional == []:
-                print('here')
-                year = str(cur_year)+'-'+str(cur_year+1)[-2:]
-                url = "https://stats.nba.com/stats/playerdashboardbygeneralsplits?DateFrom=&DateTo=&GameSegment=&LastNGames=0&LeagueID=00&Location=&MeasureType=Base&Month=0&OpponentTeamID=0&Outcome=&PORound=0&PaceAdjust=N&PerMode=PerGame&Period=0&PlayerID=" + playerID + "&PlusMinus=N&Rank=N&Season=" + year + "&SeasonSegment=&SeasonType=Regular+Season&ShotClockRange=&Split=general&VsConference=&VsDivision="
-                r = requests.get(url,headers=headers)
-                parsed = json.loads(r.text)
-                # make additional request if need data from prev yaer or next year
-                MonthlyData_dict = parsed['resultSets'][3]
-                MonthlyData_list_additional = MonthlyData_dict['rowSet']
-                cur_year -= 1
-                print(num)
-                num += 1
+            cur_year -= 1
+            print(num)
+            num += 1
 
-        if MonthlyData_list_additional == None:
-            before_injury = [MonthlyData_list[month_index_dict[injuried_month-1]][index] for index in data_indices]
+        # before injury will not look for data from two years ago
+        if injuried_month != 10:
+            index_of_injuried_month = find_index(MonthlyData_list, injuried_month)
+            if index_of_injuried_month == 0:
+                before_injury = [MonthlyData_list_additional[-1][index] for index in data_indices]
+            else:
+                before_injury = [MonthlyData_list[index_of_injuried_month - 1][index] for index in data_indices]
         else:
             before_injury = [MonthlyData_list_additional[-1][index] for index in data_indices]
 
-        GP = MonthlyData_list[month_index_dict[injuried_month]][2]
-        num_til_end = len(MonthlyData_list) - month_index_dict[injuried_month] - 1 # number of months until end of the season
+        GP = MonthlyData_list[find_index(MonthlyData_list, injuried_month)][2]
+        num_til_end = len(MonthlyData_list) - find_index(MonthlyData_list, injuried_month) - 1 # number of months until end of the season
         cur_year = injuried_year + 1
         month = injuried_month
         while GP == 0:
@@ -110,10 +123,11 @@ def main():
                 MonthlyData_list = MonthlyData_dict['rowSet']
                 cur_year += 1
                 month = 10
+                num_til_end = len(MonthlyData_list)
 
-            GP = MonthlyData_list[month_index_dict[month]][2]
+            GP = MonthlyData_list[find_index(MonthlyData_list, month)][2]
             num_til_end -= 1
-        after_injury = [MonthlyData_list[month_index_dict[month]][index] for index in data_indices]
+        after_injury = [MonthlyData_list[find_index(MonthlyData_list, month)][index] for index in data_indices]
 
         csvwriter.writerow(line+['##']+before_injury+['&&']+after_injury)
 
