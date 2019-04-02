@@ -3,10 +3,11 @@ import json
 import csv
 import pickle
 
-temp_dict = {'Octorber': 10, 'Novermber': 11, 'December': 12, 'January': 1, 'February': 2, 'March': 3, 'April': 4}
+temp_dict = {'October': 10, 'November': 11, 'December': 12, 'January': 1, 'February': 2, 'March': 3, 'April': 4, 'May': 5, 'June': 6}
 
 def find_index(MonthlyData_list, month):
     for i in range(len(MonthlyData_list)):
+        print(temp_dict[MonthlyData_list[i][1]])
         if month == temp_dict[MonthlyData_list[i][1]]:
             return i 
     return -10 # used to capture bug
@@ -41,6 +42,8 @@ def main():
         date = line[0].strip().split('/')
         injuried_year = int(date[0])
         injuried_month = int(date[1])
+        if injuried_month < 7:
+            injuried_year -= 1
         # injuried_day = date[2] might not be useful in our case
         year = str(injuried_year)+'-'+str(injuried_year+1)[-2:]
         # make request
@@ -53,6 +56,7 @@ def main():
         r = requests.get(url,headers=headers)
         parsed = json.loads(r.text)
         MonthlyData_dict = parsed['resultSets'][3]
+        # print(MonthlyData_dict)
         MonthlyData_list = MonthlyData_dict['rowSet']
         cur_year = injuried_year + 1
         num = 0
@@ -65,6 +69,7 @@ def main():
             MonthlyData_dict = parsed['resultSets'][3]
             MonthlyData_list = MonthlyData_dict['rowSet']
             cur_year += 1
+            print('here')
             print(num)
             num += 1
 
@@ -91,6 +96,7 @@ def main():
             MonthlyData_dict = parsed['resultSets'][3]
             MonthlyData_list_additional = MonthlyData_dict['rowSet']
             cur_year -= 1
+            print('here2')
             print(num)
             num += 1
 
@@ -103,7 +109,8 @@ def main():
                 before_injury = [MonthlyData_list[index_of_injuried_month - 1][index] for index in data_indices]
         else:
             before_injury = [MonthlyData_list_additional[-1][index] for index in data_indices]
-
+        print(find_index(MonthlyData_list, injuried_month))
+        print(injuried_month)
         GP = MonthlyData_list[find_index(MonthlyData_list, injuried_month)][2]
         num_til_end = len(MonthlyData_list) - find_index(MonthlyData_list, injuried_month) - 1 # number of months until end of the season
         cur_year = injuried_year + 1
